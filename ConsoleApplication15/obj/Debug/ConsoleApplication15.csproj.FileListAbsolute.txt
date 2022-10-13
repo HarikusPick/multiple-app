@@ -1,0 +1,23 @@
+c:\users\göktuğ\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+c:\users\göktuğ\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+c:\users\göktuğ\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+c:\users\göktuğ\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+c:\users\göktuğ\documents\visual studio 2013\Projects\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+L:\ConsoleApplication15\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+L:\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+L:\ConsoleApplication15\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+E:\tüm algoritmalar program\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+E:\tüm algoritmalar program\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+E:\tüm algoritmalar program\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+E:\tüm algoritmalar program\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+E:\tüm algoritmalar program\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+E:\tüm algoritmalar program\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+E:\konsol uygulamaları\tüm algoritmalar program\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+E:\konsol uygulamaları\tüm algoritmalar program\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+E:\konsol uygulamaları\tüm algoritmalar program\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
+E:\konsol uygulamaları\tüm algoritmalar program\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe
+E:\konsol uygulamaları\tüm algoritmalar program\ConsoleApplication15\bin\Debug\ConsoleApplication15.pdb
+E:\konsol uygulamaları\tüm algoritmalar program\ConsoleApplication15\obj\Debug\ConsoleApplication15.csprojResolveAssemblyReference.cache
+G:\Kodlar\tüm algoritmalar program\ConsoleApplication15\bin\Debug\ConsoleApplication15.exe.config
+G:\Kodlar\tüm algoritmalar program\ConsoleApplication15\obj\Debug\ConsoleApplication15.exe
+G:\Kodlar\tüm algoritmalar program\ConsoleApplication15\obj\Debug\ConsoleApplication15.pdb
